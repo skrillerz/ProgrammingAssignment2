@@ -1,4 +1,6 @@
-
+#The 2 functions here provide a mechanism to cache the inverse of a matrix. Calculating
+# the inverse of a matrix can be a computational intensive operation. The use of cache
+# helps to speed up the efficiency of the calculation
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
